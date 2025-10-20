@@ -10,8 +10,8 @@ let package = Package(
   targets: [
     .binaryTarget(
       name: "YEOLiveness",
-      url: "https://github.com/Eli-YEO/YEOLiveness-SPM/releases/download/0.1.2/YEOLiveness.xcframework.zip",
-      checksum: "411cf209557677f29e64dcf83d97bfa94155646b3a5b61f4f27a7b5e929f7b68"
+      url: "https://github.com/Eli-YEO/YEOLiveness-SPM/releases/download/0.1.3/YEOLiveness.xcframework.zip",
+      checksum: "37f64b7f0991017e0193fe4a1b09f9fa79571a8a4a4309349fad990d3f4e1143"
     )
   ]
 )
